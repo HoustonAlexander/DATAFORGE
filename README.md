@@ -11,6 +11,12 @@ Stapler: Combines Multiple spreadsheets
 
 QuickFormat: Formats WRS P1 spreadsheets into uniform format for closeouts and basic reconciliations
 
+<img width="732" height="294" alt="image" src="https://github.com/user-attachments/assets/a87f5713-116a-49c5-9489-23d1141d8fc0" />
+
+Once Processed, P1 reports will display in the preview window, and further processing options will become available!
+
+<img width="732" height="365" alt="image" src="https://github.com/user-attachments/assets/28ce81da-32e2-4ca8-bc6d-c6f96724c00d" />
+
 
 ## Reports ##
 
