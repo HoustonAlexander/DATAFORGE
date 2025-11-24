@@ -4,11 +4,13 @@
 
 ## Table of Contents ##
 
+### Manuals ###
+
 [QuickFormat](#quickformat) 
 
 [Stapler](#stapler)
 
-## [Reports](#reports-1) ##
+### [Reports](#reports-1) ###
 
 [P4](#p4) - Composite report for WRS P3 spreadsheets
 
@@ -54,11 +56,14 @@ Composite report for WRS P3 spreadsheets
 
 AutoDraw (USDA NIFA): Reconciles LOC drawsheet for drawdown in ASAP.
 
-RetroActivity:
+## RetroActivity ##
 
-WireTap: Extracts invoice numbers, dollar amounts, and Vendor Info from Wells Fargo PDF to CSV.
+## WireTap ## 
 
-AZAPPER: Coverts ASAP balance PDF into Excel. 
+Extracts invoice numbers, dollar amounts, and Vendor Info from Wells Fargo PDF to CSV.
+
+## AZAPPER ## 
+Coverts ASAP balance PDF into Excel. 
 
 *Draws Formatted via AutoDraw can be imported directly into AZAPPED balance sheet
 
