@@ -8,7 +8,7 @@
 
 [Stapler](#stapler)
 
-## [Reports](#reports) ##
+## [Reports](#reports-1) ##
 
 [P4](#p4) - Composite report for WRS P3 spreadsheets
 
