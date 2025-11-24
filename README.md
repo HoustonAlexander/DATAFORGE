@@ -7,8 +7,11 @@
 
 ToolBar: Accesiblity buttons to Microsoft Shortcuts
 
+<img width="25" height="25" alt="Stapler" src="https://github.com/user-attachments/assets/55772fb8-4aac-4773-8efd-ddf0f3b486c6" />
 Stapler: Combines Multiple spreadsheets
 
+<div style="page-break-after: always;"></div>
+<img width="25" height="25" alt="quik" src="https://github.com/user-attachments/assets/125dad51-7388-46c8-90e1-38bfe6c9d689" />
 QuickFormat: Formats WRS P1 spreadsheets into uniform format for closeouts and basic reconciliations
 
 <img width="732" height="294" alt="image" src="https://github.com/user-attachments/assets/a87f5713-116a-49c5-9489-23d1141d8fc0" />
