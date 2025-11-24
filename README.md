@@ -2,20 +2,19 @@
 
 <img width="735" height="249" alt="image" src="https://github.com/user-attachments/assets/8f93a5a5-375d-4e3c-ab55-2e59d1562b2b" />
 
-## Table of Contents ##
+# Table of Contents #
 
-### Manuals ###
+## Manuals ##
+
+### Utilities ###
 
 [QuickFormat](#quickformat) 
 
-[Stapler](#stapler)
+[Stapler](#stapler) - Combines Multiple spreadsheets
 
 ### [Reports](#reports-1) ###
 
 [P4](#p4) - Composite report for WRS P3 spreadsheets
-
-## Key Features ##
-
 
 ## Requirements ##
 
@@ -54,7 +53,8 @@ Combines Multiple spreadsheets
 
 Composite report for WRS P3 spreadsheets
 
-AutoDraw (USDA NIFA): Reconciles LOC drawsheet for drawdown in ASAP.
+## AutoDraw (USDA NIFA) ##
+Reconciles LOC drawsheet for drawdown in ASAP.
 
 ## RetroActivity ##
 
