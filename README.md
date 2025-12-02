@@ -38,7 +38,8 @@ Formats WRS P1 spreadsheets into uniform format for closeouts and basic reconcil
 <img width="732" height="294" alt="image" src="https://github.com/user-attachments/assets/a87f5713-116a-49c5-9489-23d1141d8fc0" />
 
 * Make sure your file is closed in Excel before proceeding
-* Files still in 'xls format will display "Unformatted" in the display pane
+* QuickFormat only transforms raw files still in 'XLS' format.
+* Once loaded properly, "Unformatted" will visible in the display pane
 
 ### 3. Press the QuickFormat button <img width="25" height="25" alt="quik" src="https://github.com/user-attachments/assets/125dad51-7388-46c8-90e1-38bfe6c9d689" /> 
 
