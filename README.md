@@ -2,7 +2,11 @@
 
 <img width="735" height="249" alt="image" src="https://github.com/user-attachments/assets/8f93a5a5-375d-4e3c-ab55-2e59d1562b2b" />
 
-# Table of Contents #
+## Table of Contents ##
+
+### Requirements ###
+
+Microsoft Excel 2021 or Newer!
 
 ### Utilities ###
 
@@ -12,11 +16,15 @@
 
 ### [Reports](#reports-1) ###
 
+[Autodraw: USDA NIFA](#autodraw-usda-nifa)
+
+[Autodraw: NSF](#autodraw-nsf)
+
+[Autodraw: NIH](#autodraw-nih)
+
 [P4](#p4) - Composite report for WRS P3 spreadsheets
 
-## Requirements ##
-
-Microsoft Excel 2021 or Newer!
+# Utilities
 
 ## QuickFormat ##
 
@@ -57,24 +65,27 @@ Formats WRS P1 spreadsheets into uniform format for closeouts and basic reconcil
 Combines Multiple spreadsheets
 <img width="25" height="25" alt="Stapler" src="https://github.com/user-attachments/assets/55772fb8-4aac-4773-8efd-ddf0f3b486c6" />
 
-## Reports ##
-
-## P4 ## 
-
-Composite report for WRS P3 spreadsheets
+# Reports #
 
 ## AutoDraw (USDA NIFA) ##
 Reconciles LOC drawsheet for drawdown in ASAP.
 
+## AutoDraw (NSF) ##
+Formats LOC drawsheet for NSF accounts.
+
+## AutoDraw (NIH) ##
+Recompiles LOC drawsheet for NIH accounts.
+
 ## RetroActivity ##
 
 ## WireTap ## 
-
 Extracts invoice numbers, dollar amounts, and Vendor Info from Wells Fargo PDF to CSV.
 
 ## AZAPPER ## 
 Coverts ASAP balance PDF into Excel. 
 
+## P4 ##
+Composite report for WRS P3 spreadsheets
 *Draws Formatted via AutoDraw can be imported directly into AZAPPED balance sheet
 
 
