@@ -12,7 +12,7 @@ Microsoft Excel 2021 or Newer!
 
 [QuickFormat](#quickformat) 
 
-[Stapler](#stapler) - Combines Multiple spreadsheets
+[Stapler](#stapler)
 
 ### [Reports](#reports-1) ###
 
@@ -22,7 +22,7 @@ Microsoft Excel 2021 or Newer!
 
 [Autodraw: NIH](#autodraw-nih)
 
-[P4](#p4) - Composite report for WRS P3 spreadsheets
+[P4: Payroller](#p4)
 
 # Utilities
 
