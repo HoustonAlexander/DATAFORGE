@@ -12,7 +12,7 @@
 
 [Stapler](#stapler)
 
-### [Reports](#reports-1) ###
+### [Reports](#reports-) ###
 
 [Autodraw: USDA NIFA](#autodraw-usda-nifa)
 
