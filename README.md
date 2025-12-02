@@ -4,8 +4,6 @@
 
 # Table of Contents #
 
-## Manuals ##
-
 ### Utilities ###
 
 [QuickFormat](#quickformat) 
@@ -19,8 +17,6 @@
 ## Requirements ##
 
 Microsoft Excel 2021 or Newer!
-
-# Manuals #
 
 ## QuickFormat ##
 
