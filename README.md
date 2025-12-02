@@ -8,7 +8,7 @@
 
 Microsoft Excel 2021 or Newer!
 
-### Utilities ###
+### [Utilities](#utilities-1) ###
 
 [QuickFormat](#quickformat) 
 
