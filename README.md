@@ -76,6 +76,9 @@ Activates your systems Clipboard
 
 Activates the Task View for your system
 
+<img width="473" height="252" alt="image" src="https://github.com/user-attachments/assets/b8c48034-0c79-463b-892e-bb9fd279898f" />
+
+
 ## QuickFormat ##
 
 Formats WRS P1 spreadsheets into uniform format for closeouts and basic reconciliations
