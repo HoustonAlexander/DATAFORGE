@@ -10,21 +10,21 @@
 
 ### [Utilities](#utilities-1) ###
 
-[MS Tools](#ms-tools)
+* [MS Tools](#ms-tools)
 
-[Stapler](#stapler-) <img width="25" height="25" alt="Stapler" src="https://github.com/user-attachments/assets/55772fb8-4aac-4773-8efd-ddf0f3b486c6" />
+* [Stapler](#stapler-) <img width="25" height="25" alt="Stapler" src="https://github.com/user-attachments/assets/55772fb8-4aac-4773-8efd-ddf0f3b486c6" />
 
-[QuickFormat](#quickformat) 
+* [QuickFormat](#quickformat) 
 
 ### [Reports](#reports-) ###
 
-[Autodraw: USDA NIFA](#autodraw-usda-nifa)
+* [Autodraw: USDA NIFA](#autodraw-usda-nifa)
 
-[Autodraw: NSF](#autodraw-nsf)
+* [Autodraw: NSF](#autodraw-nsf)
 
-[Autodraw: NIH](#autodraw-nih)
+* [Autodraw: NIH](#autodraw-nih)
 
-[P4: Payroller](#p4)
+* [P4: Payroller](#p4)
 
 ### Extractors ###
 
