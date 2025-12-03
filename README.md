@@ -109,11 +109,12 @@ Formats WRS P1 spreadsheets into uniform format for closeouts and basic reconcil
 
 <img width="317" height="149" alt="image" src="https://github.com/user-attachments/assets/b643d868-9cc1-4bc9-8bb5-09bb536f359d" />
 
-* Once Processed, P1 reports will display in the preview window, as well as the Sponsor Name and Project ID 
-
+* Once Processed, P1 reports will display in the preview window, as well as the Sponsor Name and Project ID
+  
 <img width="732" height="365" alt="image" src="https://github.com/user-attachments/assets/28ce81da-32e2-4ca8-bc6d-c6f96724c00d" />
 
 ### 4. View Project Details (Optional)
+
 <img width="735" height="704" alt="image" src="https://github.com/user-attachments/assets/8a2e74b4-0e29-431a-9610-4d95ca7e4605" />
 
 ### 5. Close DataForge
