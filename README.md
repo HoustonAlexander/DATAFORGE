@@ -124,8 +124,20 @@ Formats WRS P1 spreadsheets into uniform format for closeouts and basic reconcil
 ## AutoDraw (USDA NIFA) ##
 Reconciles LOC drawsheet for drawdown in ASAP.
 
+1. Download your LOC Report
+
+<img width="791" height="326" alt="image" src="https://github.com/user-attachments/assets/b8727c65-574f-4121-8ce0-e9b8d092267c" />
+
+2. Load your LOC Report into Dataforge2
+   
+3. Open the Generate Menu
+
+4. Select "Autodraw - USDA NIFA"
+
 ## AutoDraw (NSF) ##
 Formats LOC drawsheet for NSF accounts.
+
+1. Download your LOC 
 
 ## AutoDraw (NIH) ##
 Recompiles LOC drawsheet for NIH accounts.
