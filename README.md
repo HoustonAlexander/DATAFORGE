@@ -51,17 +51,27 @@ MacOS Compatibility Coming Soon
 
 ## MS Tools ##
 
-DataForge2 features assesiblity shortcut buttons to 4 built-in Microsoft Applications essential for any job!
+<img width="453" height="68" alt="image" src="https://github.com/user-attachments/assets/3b6df894-4940-4f45-8cea-e42530b23af2" />
+
+DataForge2 features assesiblity shortcut buttons to 4 built-in Microsoft Applications essential for any task!
 
 ### Snipping Tool ###
 Activates Windows Snipping Tool
 
+<img width="623" height="283" alt="image" src="https://github.com/user-attachments/assets/1835ecf6-e6c6-4cb1-9cd6-818d041e77a2" />
+
 ### Calculator ###
 Opens of an instance of the Calculator App
+
+<img width="196" height="310" alt="image" src="https://github.com/user-attachments/assets/6b68b3ae-0943-46b5-a15f-a1441671aba5" />
+
 
 ### Clipboard ###
 
 Activates your systems Clipboard
+
+<img width="226" height="248" alt="image" src="https://github.com/user-attachments/assets/ad47444b-c9b4-44f8-8be5-3750c1f97c6a" />
+
 ### Expand ###
 
 Activates the Task View for your system
