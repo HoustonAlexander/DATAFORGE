@@ -4,7 +4,9 @@
 
 ## Table of Contents ##
 
-### [System Requirements](#system-requirements) ###
+### [System Requirements](#system-requirements-1) ###
+
+### [Installation](#installation-1) ###
 
 ### [Utilities](#utilities-1) ###
 
@@ -25,8 +27,22 @@
 ### FAQ ### 
 
 # System Requirements
-Microsoft Excel 2021 or Newer!
 
+Windows 10 or 11
+
+Microsoft Excel 2021, 2024, or 365
+
+MacOS Compatibility Coming Soon
+
+# Installation
+1. Download the most recent version below:
+   
+   https://drive.google.com/file/d/1ZUoLoq665H9JT_DKihTSFNb1W1lon_xG/view?usp=sharing
+
+3. Extract files to new folder
+
+4. Run DATAFORGE2.exe from that folder
+    
 # Utilities
 
 ## QuickFormat ##
