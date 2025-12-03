@@ -10,11 +10,11 @@
 
 ### [Utilities](#utilities-1) ###
 
-[MS Tools](#ms-tools-1)
+[MS Tools](#ms-tools)
+
+[Stapler](#stapler-)
 
 [QuickFormat](#quickformat) 
-
-[Stapler](#stapler)
 
 ### [Reports](#reports-) ###
 
@@ -78,6 +78,10 @@ Activates the Task View for your system
 
 <img width="473" height="252" alt="image" src="https://github.com/user-attachments/assets/b8c48034-0c79-463b-892e-bb9fd279898f" />
 
+## Stapler <img width="25" height="25" alt="Stapler" src="https://github.com/user-attachments/assets/55772fb8-4aac-4773-8efd-ddf0f3b486c6" /> ##
+
+Combines Multiple spreadsheets
+
 
 ## QuickFormat ##
 
@@ -113,13 +117,6 @@ Formats WRS P1 spreadsheets into uniform format for closeouts and basic reconcil
 <img width="735" height="704" alt="image" src="https://github.com/user-attachments/assets/8a2e74b4-0e29-431a-9610-4d95ca7e4605" />
 
 ### 5. Close DataForge
-
-
-
-## Stapler ##
-
-Combines Multiple spreadsheets
-<img width="25" height="25" alt="Stapler" src="https://github.com/user-attachments/assets/55772fb8-4aac-4773-8efd-ddf0f3b486c6" />
 
 # Reports <img width="30" height="30" alt="Generate" src="https://github.com/user-attachments/assets/1a69de37-e308-4b5b-a8e0-c231ae9e8d42" /> #
 
