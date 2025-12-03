@@ -126,7 +126,7 @@ Reconciles LOC drawsheet for drawdown in ASAP.
 
 1. Download your LOC Report
 
-<img width="791" height="326" alt="image" src="https://github.com/user-attachments/assets/b8727c65-574f-4121-8ce0-e9b8d092267c" />
+<img width="396" height="163" alt="image" src="https://github.com/user-attachments/assets/b8727c65-574f-4121-8ce0-e9b8d092267c" />
 
 2. Load your LOC Report into Dataforge2
    
