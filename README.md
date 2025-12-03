@@ -10,6 +10,8 @@
 
 ### [Utilities](#utilities-1) ###
 
+[MS Tools](#ms-tools-1)
+
 [QuickFormat](#quickformat) 
 
 [Stapler](#stapler)
@@ -24,7 +26,7 @@
 
 [P4: Payroller](#p4)
 
-### [Developer Notes](#developer-notes-1) ###
+### [Developer Notes](#developer-notes) ###
 
 ### [FAQ](#faq-1) ### 
 
@@ -46,6 +48,23 @@ MacOS Compatibility Coming Soon
 4. Run DATAFORGE2.exe from that folder
     
 # Utilities
+
+## MS Tools ##
+
+DataForge2 features assesiblity shortcut buttons to 4 built-in Microsoft Applications essential for any job!
+
+### Snipping Tool ###
+Activates Windows Snipping Tool
+
+### Calculator ###
+Opens of an instance of the Calculator App
+
+### Clipboard ###
+
+Activates your systems Clipboard
+### Expand ###
+
+Activates the Task View for your system
 
 ## QuickFormat ##
 
