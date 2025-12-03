@@ -12,7 +12,7 @@
 
 [MS Tools](#ms-tools)
 
-[Stapler](#stapler-)
+[Stapler](#stapler-) <img width="25" height="25" alt="Stapler" src="https://github.com/user-attachments/assets/55772fb8-4aac-4773-8efd-ddf0f3b486c6" />
 
 [QuickFormat](#quickformat) 
 
@@ -25,6 +25,8 @@
 [Autodraw: NIH](#autodraw-nih)
 
 [P4: Payroller](#p4)
+
+### Extractors ###
 
 ### [Developer Notes](#developer-notes) ###
 
@@ -66,7 +68,7 @@ Opens of an instance of the Calculator App
 <img width="196" height="310" alt="image" src="https://github.com/user-attachments/assets/6b68b3ae-0943-46b5-a15f-a1441671aba5" />
 
 
-### Clipboard ###
+### Clipboard <img width="28" height="31" alt="clipboard" src="https://github.com/user-attachments/assets/137b90be-d8e0-41f8-8ea8-b2ab439bac90" /> ###
 
 Activates your systems Clipboard
 
