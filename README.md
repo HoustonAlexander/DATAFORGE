@@ -144,6 +144,8 @@ Once formatted, the details button will populate to the right of the information
 
 [Return to Table of Contents](#table-of-contents)
 
+---
+
 # Reports <img width="30" height="30" alt="Generate" src="https://github.com/user-attachments/assets/1a69de37-e308-4b5b-a8e0-c231ae9e8d42" /> #
 
 ## AutoDraw (USDA NIFA) ##
@@ -204,6 +206,10 @@ Formats LOC drawsheet for NSF accounts.
 ## AutoDraw (NIH) ##
 Recompiles LOC drawsheet for NIH accounts.
 
+[Return to Table of Contents](#table-of-contents)
+
+---
+
 # Extractors
 
 ## RetroActivity ##
@@ -218,9 +224,21 @@ Coverts ASAP balance PDF into Excel.
 Composite report for WRS P3 spreadsheets
 *Draws Formatted via AutoDraw can be imported directly into AZAPPED balance sheet
 
+[Return to Table of Contents](#table-of-contents)
+
+---
+
 # FAQ #
 
+[Return to Table of Contents](#table-of-contents)
+
+---
+
 # Devoloper Notes #
+
+[Return to Table of Contents](#table-of-contents)
+
+---
 
 
 
