@@ -14,7 +14,7 @@
 
 * [Stapler](#stapler-) <img width="25" height="25" alt="Stapler" src="https://github.com/user-attachments/assets/55772fb8-4aac-4773-8efd-ddf0f3b486c6" />
 
-* [QuickFormat](#quickformat) 
+* [QuickFormat](#quickformat-) 
 
 ### [Reports](#reports-) ###
 
@@ -27,6 +27,15 @@
 * [P4: Payroller](#p4)
 
 ### Extractors ###
+
+* AZAPPER
+  
+* PDF
+  
+* Wiretap
+  
+* RetroActivities
+  
 
 ### [Developer Notes](#developer-notes) ###
 
@@ -45,9 +54,9 @@ MacOS Compatibility Coming Soon
    
    https://drive.google.com/file/d/1ZUoLoq665H9JT_DKihTSFNb1W1lon_xG/view?usp=sharing
 
-### 3. Extract files to new folder
+### 2. Extract files to new folder
 
-### 4. Run DATAFORGE2.exe from that folder
+### 3. Run DATAFORGE2.exe from that folder
     
 # Utilities
 
@@ -57,12 +66,14 @@ DataForge2 features assesiblity shortcut buttons to 4 built-in Microsoft Applica
 
 <img width="453" height="68" alt="image" src="https://github.com/user-attachments/assets/3b6df894-4940-4f45-8cea-e42530b23af2" />
 
-### Snipping Tool ###
+### Snipping Tool <img width="25" height="25" alt="Scisors" src="https://github.com/user-attachments/assets/65272a87-454d-4252-98dc-baad60bf528a" />
+###
 Activates Windows Snipping Tool
 
 <img width="623" height="283" alt="image" src="https://github.com/user-attachments/assets/1835ecf6-e6c6-4cb1-9cd6-818d041e77a2" />
 
-### Calculator ###
+### Calculator <img width="25" height="25" alt="calcicon2" src="https://github.com/user-attachments/assets/14d1907f-2ef1-498a-95c9-1517abb19b21" />
+###
 Opens of an instance of the Calculator App
 
 <img width="196" height="310" alt="image" src="https://github.com/user-attachments/assets/6b68b3ae-0943-46b5-a15f-a1441671aba5" />
@@ -74,7 +85,8 @@ Activates your systems Clipboard
 
 <img width="226" height="248" alt="image" src="https://github.com/user-attachments/assets/ad47444b-c9b4-44f8-8be5-3750c1f97c6a" />
 
-### Expand ###
+### Expand <img width="25" height="25" alt="xpand" src="https://github.com/user-attachments/assets/2d58e652-530f-4008-a70f-dbdbbde885ed" />
+###
 
 Activates the Task View for your system
 
@@ -84,8 +96,15 @@ Activates the Task View for your system
 
 Combines Multiple spreadsheets
 
+### 1. Open DatatForge2
 
-## QuickFormat ##
+### 2. Click the Stapler Button
+
+* This will open a blank Workbook in Excel, and launch a File Selection Dialog
+
+### 3. Select all of the Workbooks you wish to combine
+
+## QuickFormat <img width="25" height="25" alt="quik" src="https://github.com/user-attachments/assets/a89fa001-a613-42c8-985c-97f7c775c4db" />
 
 Formats WRS P1 spreadsheets into uniform format for closeouts and basic reconciliations
 
@@ -115,11 +134,15 @@ Formats WRS P1 spreadsheets into uniform format for closeouts and basic reconcil
   
 <img width="732" height="365" alt="image" src="https://github.com/user-attachments/assets/28ce81da-32e2-4ca8-bc6d-c6f96724c00d" />
 
-### 4. View Project Details (Optional)
+### View Project Details (Optional) 
+
+Once formatted, the details button will populate to the right of the information bar
 
 <img width="735" height="704" alt="image" src="https://github.com/user-attachments/assets/8a2e74b4-0e29-431a-9610-4d95ca7e4605" />
 
-### 5. Close DataForge
+### 4. Close DataForge
+
+[Return to Table of Contents](#table-of-contents)
 
 # Reports <img width="30" height="30" alt="Generate" src="https://github.com/user-attachments/assets/1a69de37-e308-4b5b-a8e0-c231ae9e8d42" /> #
 
@@ -130,11 +153,19 @@ Reconciles LOC drawsheet for drawdown in ASAP.
 
 <img width="396" height="163" alt="image" src="https://github.com/user-attachments/assets/b8727c65-574f-4121-8ce0-e9b8d092267c" />
 
+* DO NOT MAKE ANY CHANGES TO YOUR LOC REPORT *
+  
+* ANY Manual Changes made prior to processing may result in unintended results *
+  
 ### 2. Load your LOC Report into Dataforge2
    
-### 3. Open the Generate Menu
+### 3. Click The Generate Button to bring up the Process Menu
+
+<img width="415" height="35.5" alt="image" src="https://github.com/user-attachments/assets/f088931e-e99d-44e9-a7c9-a7e2d293b235" />
 
 ### 4. Select "Autodraw - USDA NIFA"
+
+<img width="447" height="160" alt="image" src="https://github.com/user-attachments/assets/fb950329-ac56-454f-8b27-1a68d0b36652" />
 
 ## AutoDraw (NSF) ##
 Formats LOC drawsheet for NSF accounts.
@@ -148,18 +179,32 @@ Formats LOC drawsheet for NSF accounts.
 * ANY Manual Changes made prior to processing may result in unintended results *
 ### 2. Load your LOC Report into Datforge2
 
-<img width="" height="" alt="image" src="https://github.com/user-attachments/assets/9b56deda-19f1-4c42-86b5-8a8932af3111" />
+<img width="428" height="203" alt="image" src="https://github.com/user-attachments/assets/9b56deda-19f1-4c42-86b5-8a8932af3111" />
 
 ### 3. Click The Generate Button to bring up the Process Menu
 
-<img width="452" height="162" alt="image" src="https://github.com/user-attachments/assets/b2338bfc-5d9d-487b-8ebd-0a684fcef49b" />
+<img width="415" height="35.5" alt="image" src="https://github.com/user-attachments/assets/f088931e-e99d-44e9-a7c9-a7e2d293b235" />
 
 ### 4. Select "Autodraw - NSF" from the dropdown menu
 
-### 5. 
+<img width="449" height="158" alt="image" src="https://github.com/user-attachments/assets/22771565-876f-4107-883b-63051550c0e5" />
+
+### 5. Press the Start Button and wait for the process to complete
+
+* While running, the your report will open up and begin to format itself
+* DO NOT MAKE ANY CHANGES UNTIL THE PROCESS COMPLETES
+* Interupting this process will cause your run to fail
+
+<img width="447" height="158" alt="image" src="https://github.com/user-attachments/assets/6b50e603-88f1-4a0a-a600-8a0c1922656a" />
+
+### 6. Review your report for accuracy 
+
+### 7. Close DataForge2 and Save your Report in Excel
 
 ## AutoDraw (NIH) ##
 Recompiles LOC drawsheet for NIH accounts.
+
+# Extractors
 
 ## RetroActivity ##
 
