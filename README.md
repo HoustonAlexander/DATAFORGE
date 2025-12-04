@@ -14,9 +14,9 @@
 
 * [Stapler](#stapler-) <img width="25" height="25" alt="Stapler" src="https://github.com/user-attachments/assets/55772fb8-4aac-4773-8efd-ddf0f3b486c6" />
 
-* [QuickFormat](#quickformat-) 
+* [QuickFormat](#quickformat-) <img width="25" height="25" alt="quik" src="https://github.com/user-attachments/assets/a89fa001-a613-42c8-985c-97f7c775c4db" />
 
-### [Reports](#reports-) ###
+### [Reports](#reports-) <img width="30" height="30" alt="Generate" src="https://github.com/user-attachments/assets/1a69de37-e308-4b5b-a8e0-c231ae9e8d42" />
 
 * [Autodraw: USDA NIFA](#autodraw-usda-nifa)
 
@@ -26,7 +26,7 @@
 
 * [P4: Payroller](#p4)
 
-### Extractors ###
+### Extractors <img width="30" height="30" alt="Generate" src="https://github.com/user-attachments/assets/1a69de37-e308-4b5b-a8e0-c231ae9e8d42" />
 
 * AZAPPER
   
@@ -57,6 +57,9 @@ MacOS Compatibility Coming Soon
 ### 2. Extract files to new folder
 
 ### 3. Run DATAFORGE2.exe from that folder
+
+<img width="238" height="152" alt="image" src="https://github.com/user-attachments/assets/23ef0187-8ecf-4979-91d5-1b675c120792" />
+
     
 # Utilities
 
@@ -92,11 +95,13 @@ Activates the Task View for your system
 
 <img width="473" height="252" alt="image" src="https://github.com/user-attachments/assets/b8c48034-0c79-463b-892e-bb9fd279898f" />
 
+[Return to Table of Contents](#table-of-contents)
+
 ## Stapler <img width="25" height="25" alt="Stapler" src="https://github.com/user-attachments/assets/55772fb8-4aac-4773-8efd-ddf0f3b486c6" /> ##
 
 Combines Multiple spreadsheets
 
-### 1. Open DatatForge2
+### 1. Open DataForge2
 
 ### 2. Click the Stapler Button
 
