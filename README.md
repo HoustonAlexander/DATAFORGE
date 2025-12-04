@@ -41,21 +41,21 @@ Microsoft Excel 2021, 2024, or 365
 MacOS Compatibility Coming Soon
 
 # Installation
-1. Download the most recent version below:
+### 1. Download the most recent version below:
    
    https://drive.google.com/file/d/1ZUoLoq665H9JT_DKihTSFNb1W1lon_xG/view?usp=sharing
 
-3. Extract files to new folder
+### 3. Extract files to new folder
 
-4. Run DATAFORGE2.exe from that folder
+### 4. Run DATAFORGE2.exe from that folder
     
 # Utilities
 
 ## MS Tools ##
 
-<img width="453" height="68" alt="image" src="https://github.com/user-attachments/assets/3b6df894-4940-4f45-8cea-e42530b23af2" />
-
 DataForge2 features assesiblity shortcut buttons to 4 built-in Microsoft Applications essential for any task!
+
+<img width="453" height="68" alt="image" src="https://github.com/user-attachments/assets/3b6df894-4940-4f45-8cea-e42530b23af2" />
 
 ### Snipping Tool ###
 Activates Windows Snipping Tool
@@ -146,9 +146,17 @@ Formats LOC drawsheet for NSF accounts.
 * DO NOT MAKE ANY CHANGES TO YOUR LOC REPORT *
   
 * ANY Manual Changes made prior to processing may result in unintended results *
-2. Load your LOC Report into Datforge2
+### 2. Load your LOC Report into Datforge2
 
 <img width="735" height="249" alt="image" src="https://github.com/user-attachments/assets/9b56deda-19f1-4c42-86b5-8a8932af3111" />
+
+### 3. Click The Generate Button to bring up the Process Menu
+
+<img width="452" height="162" alt="image" src="https://github.com/user-attachments/assets/b2338bfc-5d9d-487b-8ebd-0a684fcef49b" />
+
+### 4. Select "Autodraw - NSF" from the dropdown menu
+
+### 5. 
 
 ## AutoDraw (NIH) ##
 Recompiles LOC drawsheet for NIH accounts.
