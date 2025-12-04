@@ -148,7 +148,7 @@ Formats LOC drawsheet for NSF accounts.
 * ANY Manual Changes made prior to processing may result in unintended results *
 ### 2. Load your LOC Report into Datforge2
 
-<img width="735" height="249" alt="image" src="https://github.com/user-attachments/assets/9b56deda-19f1-4c42-86b5-8a8932af3111" />
+<img width="" height="" alt="image" src="https://github.com/user-attachments/assets/9b56deda-19f1-4c42-86b5-8a8932af3111" />
 
 ### 3. Click The Generate Button to bring up the Process Menu
 
