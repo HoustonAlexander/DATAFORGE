@@ -120,7 +120,7 @@ Formats WRS P1 spreadsheets into uniform format for closeouts and basic reconcil
 * After You Download your file do not make changes to it! QuikFormat only works on unaltered XLS filetypes.
 * DO NOT select any of the other optional display option buttons that "Show/Hide". Doing so will cause your quickformat to produce unintended results.
 
-### 2. Load your WRS report into DataForge with the load button. ###
+### 2. Click the Load Button to import your WRS report into DataForge2 ###
 
 <img width="732" height="294" alt="image" src="https://github.com/user-attachments/assets/a87f5713-116a-49c5-9489-23d1141d8fc0" />
 
@@ -215,15 +215,31 @@ Recompiles LOC drawsheet for NIH accounts.
 
 ---
 
-# Extractors
+# Extractors <img width="30" height="30" alt="Generate" src="https://github.com/user-attachments/assets/1a69de37-e308-4b5b-a8e0-c231ae9e8d42" />
 
 ## RetroActivity ##
+Converts INVALID RETROACTIVE DISTRIBUTION ACCT_CD REPORT to Excel Format
+
+### 1. Load your Report into DataForge2
+
+### 2. Click the "Generate" Button to bring up the Process Menu
+
+### 3. Set your export location
+
+* The defualt location will be "Documents"
 
 ## WireTap ## 
 Extracts invoice numbers, dollar amounts, and Vendor Info from Wells Fargo PDF to CSV.
 
 ## AZAPPER ## 
-Coverts ASAP balance PDF into Excel. 
+Coverts USDA NIFA ASAP balance PDF into Excel Worksheet.
+
+### 1. Print off your ASAP Balances from ASAP.gov
+### 2. Combine sheets into a single PDF
+### 3. Load your newly created PDF into DataForge2
+### 4. Click the "Generate" Button to bring up the Process Menu
+### 5. Set your export location
+
 
 ## P4 ##
 Composite report for WRS P3 spreadsheets
