@@ -175,7 +175,7 @@ Reconciles LOC drawsheet for drawdown in ASAP.
 <img width="447" height="160" alt="image" src="https://github.com/user-attachments/assets/fb950329-ac56-454f-8b27-1a68d0b36652" />
 
 ## AutoDraw (NSF) ##
-Formats LOC drawsheet for NSF accounts.
+Formats LOC drawsheet for NSF accounts in Research.gov.
 
 ### 1. Download your LOC
 
@@ -198,7 +198,7 @@ Formats LOC drawsheet for NSF accounts.
 
 ### 5. Press the Start Button and wait for the process to complete
 
-* While running, the your report will open up and begin to format itself
+* While running, your report will open up and begin to format itself
 * DO NOT MAKE ANY CHANGES UNTIL THE PROCESS COMPLETES
 * Interupting this process will cause your run to fail
 
