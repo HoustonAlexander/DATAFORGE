@@ -1,4 +1,4 @@
-# DataForge 2 #
+# DataForge 2
 
 <img width="735" height="249" alt="image" src="https://github.com/user-attachments/assets/8f93a5a5-375d-4e3c-ab55-2e59d1562b2b" />
 
