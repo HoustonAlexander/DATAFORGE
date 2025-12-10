@@ -53,6 +53,10 @@ MacOS Compatibility Coming Soon
 
 ## Automatic Setup
 
+Setup Wizard for quick installation
+Creates Desktop Shortcut
+*Admin Privledges required!
+
 ### 1. Download the most recent version below:
 
   https://drive.google.com/file/d/1auBBG3eg79sjW5WW1963CM89LWyme_kP/view?usp=drive_link
@@ -77,6 +81,11 @@ MacOS Compatibility Coming Soon
 
 <img width="515" height="174" alt="image" src="https://github.com/user-attachments/assets/5004c457-2fa6-4b13-a1be-0907b1aba0a8" />
 
+### 7. This will bring up the Installation Wizard.
+
+<img width="310" height="241" alt="image" src="https://github.com/user-attachments/assets/5e3600b1-43b3-4e08-b54e-f73f204cafa0" />
+
+### 8. Proceed with through the installation prompts until you reach the "Finish" Button.
 
 ## Manual Setup
 Works on any system regardless of Admin Privileges
