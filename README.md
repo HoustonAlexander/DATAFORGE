@@ -69,7 +69,21 @@ Works on any system regardless of Admin Privileges
 
   https://drive.google.com/file/d/1auBBG3eg79sjW5WW1963CM89LWyme_kP/view?usp=drive_link
 
-### 2. Extract the installer from the downloaded folder
+### 2. When prompted, select "Download Anyway"
+
+<img width="606" height="253" alt="image" src="https://github.com/user-attachments/assets/363a3e03-fb1e-4d24-a4ea-2a776955c414" />
+
+### 3. After Downloading has completed; Right Click and "Extract All" to new folder
+
+<img width="544" height="156" alt="image" src="https://github.com/user-attachments/assets/3a266f2f-58b3-4d86-a25d-75e62d666130" />
+
+### 4. From newly created folder; Run the "DF2setup.exe"
+
+<img width="177" height="42" alt="image" src="https://github.com/user-attachments/assets/3d38b002-cce1-4961-b350-2e9ebd8b5d2d" />
+
+### 5. When Prompted Select "More Info"
+
+<img width="515" height="185" alt="image" src="https://github.com/user-attachments/assets/5fe49789-f7b7-4b39-b828-ca14633d826d" />
 
     
 # Utilities
