@@ -50,18 +50,6 @@ Microsoft Excel 2021, 2024, or 365
 MacOS Compatibility Coming Soon
 
 # Installation
-## Manual Setup
-Works on any system regardless of Admin Privileges
-  
-### 1. Download the most recent version below:
-   
-   https://drive.google.com/file/d/1ZUoLoq665H9JT_DKihTSFNb1W1lon_xG/view?usp=sharing
-
-### 2. Extract files to new folder
-
-### 3. Run DATAFORGE2.exe from that folder
-
-<img width="238" height="152" alt="image" src="https://github.com/user-attachments/assets/23ef0187-8ecf-4979-91d5-1b675c120792" />
 
 ## Automatic Setup
 
@@ -85,6 +73,18 @@ Works on any system regardless of Admin Privileges
 
 <img width="515" height="185" alt="image" src="https://github.com/user-attachments/assets/5fe49789-f7b7-4b39-b828-ca14633d826d" />
 
+## Manual Setup
+Works on any system regardless of Admin Privileges
+  
+### 1. Download the most recent version below:
+   
+   https://drive.google.com/file/d/1ZUoLoq665H9JT_DKihTSFNb1W1lon_xG/view?usp=sharing
+
+### 2. Extract files to new folder
+
+### 3. Run DATAFORGE2.exe from that folder
+
+<img width="238" height="152" alt="image" src="https://github.com/user-attachments/assets/23ef0187-8ecf-4979-91d5-1b675c120792" />
     
 # Utilities
 
