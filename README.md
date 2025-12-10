@@ -73,6 +73,11 @@ MacOS Compatibility Coming Soon
 
 <img width="515" height="185" alt="image" src="https://github.com/user-attachments/assets/5fe49789-f7b7-4b39-b828-ca14633d826d" />
 
+### 6. Then Select "Run Anyway"
+
+<img width="515" height="174" alt="image" src="https://github.com/user-attachments/assets/5004c457-2fa6-4b13-a1be-0907b1aba0a8" />
+
+
 ## Manual Setup
 Works on any system regardless of Admin Privileges
   
